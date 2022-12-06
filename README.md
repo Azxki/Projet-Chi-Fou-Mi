@@ -22,7 +22,8 @@
 - Mettre un score à  la partie.
 
 // Etape 3: Codage du CSS
-- A nos goûts et a nos COULEURS.
+- Replacer les éléments au milieu de la page.
+- Le reste est à nos goûts et a nos COULEURS.
 
 // Etape 4: Codage du JS
 - Importer les éléments HTML dans le JS.

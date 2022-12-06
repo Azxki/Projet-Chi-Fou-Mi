@@ -32,7 +32,7 @@ function runGame(userChoice) {
             break;
     }
 
-    Score.innerHTML = `J'ai : ${wins} partie gagnée | L'ordinateur a : ${loses} partie gagnée`;
+    Score.innerHTML = `J'ai : ${wins} partie gagnée | L'ordinateur a : ${loses} partie gagnée;
 }
 
 paper.addEventListener("click", () => runGame("papier"));
